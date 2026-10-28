@@ -8,7 +8,9 @@ omarchy theme install https://github.com/nchudleigh/omarchy-larch-theme
 
 The theme shows up as **larch**. Cycle the four photographs with `omarchy theme bg next`.
 
-Shot on loon, the 4K desktop where this theme is installed. The window border is solid larch gold.
+Light variant: [larch-light](https://github.com/nchudleigh/omarchy-larch-light-theme).
+
+Shot on loon. The window border is solid larch gold.
 
 ![Larch cliffs](gallery/loon-cliffs.png)
 
