@@ -8,8 +8,10 @@ omarchy theme install https://github.com/nchudleigh/omarchy-larch-theme
 
 The theme shows up as **larch**. Cycle the four photographs with `omarchy theme bg next`.
 
-![Tiled desktop](gallery/desktop.png)
+Shot on loon, the 4K desktop where this theme is installed.
 
-![Menu](gallery/menu.png)
+![Larch cliffs](gallery/loon-cliffs.png)
 
-![Lock screen](gallery/lock.png)
+![Lakes](gallery/loon-lakes.png)
+
+![Three Sisters](gallery/loon-sisters.png)
