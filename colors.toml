@@ -1,0 +1,37 @@
+# Larch. Limestone, spruce shade, aspen gold, glacial teal.
+# Sampled from the four wallpapers in backgrounds/.
+
+mode = "dark"
+
+accent = "#e39b12"
+selection = "#3c3626"
+muted = "#949a96"
+
+background = "#1b2124"
+dark_background = "#14181b"
+darker_background = "#0e1214"
+lighter_background = "#2a3236"
+
+foreground = "#e7e1d6"
+dark_foreground = "#8e8a80"
+light_foreground = "#f3eee6"
+bright_foreground = "#f7f4ee"
+
+# Active window border: larch gold into sunlit lake water.
+hyprland_active_border = "rgba(e39b12ee) rgba(3aa3abee) 45deg"
+
+red = "#e06b52"
+orange = "#e08448"
+yellow = "#f0b429"
+green = "#8aaa62"
+cyan = "#3aa3ab"
+blue = "#7aa4b8"
+magenta = "#c4a0b0"
+brown = "#c4925a"
+
+bright_red = "#f0927c"
+bright_yellow = "#f6d27a"
+bright_green = "#b4cf8a"
+bright_cyan = "#8fd9d4"
+bright_blue = "#a9c8d6"
+bright_magenta = "#e0c4d0"
