@@ -17,8 +17,9 @@ dark_foreground = "#8e8a80"
 light_foreground = "#f3eee6"
 bright_foreground = "#f7f4ee"
 
-# Active window border: larch gold into sunlit lake water.
-hyprland_active_border = "rgba(e39b12ee) rgba(3aa3abee) 45deg"
+# Solid larch gold. Inactive windows use flat stone.
+hyprland_active_border = "rgba(e39b12ee)"
+hyprland_inactive_border = "rgba(3a4448aa)"
 
 red = "#e06b52"
 orange = "#e08448"
