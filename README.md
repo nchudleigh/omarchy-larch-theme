@@ -2,6 +2,8 @@
 
 Dark Omarchy theme from the Rockies in October. Limestone grey, spruce shade, larch gold, lake teal.
 
+Photographs by [Alex Mack](https://www.alexmack.ca/), [fall in the Canadian Rockies](https://x.com/alexmack__/status/2114849469237993883).
+
 ```bash
 omarchy theme install https://github.com/nchudleigh/omarchy-larch-theme
 ```
